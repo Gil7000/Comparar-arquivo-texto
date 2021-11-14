@@ -1,6 +1,6 @@
 # Comparar arquivo texto
   
-  Eu recebo arquivos TXT e CSV periódicamente, e preciso identificar o que mudou entre o arquivo atual e último trabalhado.
+  Periodicamente eu recebo arquivos TXT e CSV e preciso identificar o que mudou entre o arquivo atual e último trabalhado.
   
   O que o programa faz:
   * Ler e comparar dois arquivos TXT
