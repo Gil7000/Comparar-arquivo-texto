@@ -1,0 +1,3 @@
+The Project Gutenberg EBook of Romeo and Juliet, by William Shakespeare
+  Jul. I will confess to you That I love him. 
+GAS - essa linha existe em newfile e não existe em oldfile
