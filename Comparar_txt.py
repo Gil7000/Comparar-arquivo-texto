@@ -59,6 +59,7 @@ print('Quantidade de registros no arquivo newfile...........: ' + str(len(newfil
 print('Separando as linhas diferentes entre os arquivos.....: ' + time.strftime('%Y-%m-%d %H:%M:%S', time.localtime()))
 # insere na lista result apenas as linhas que existem em newfile e não existem em oldfile
 result = sorted(list(set(newfile) - set(oldfile)))  #o arquivo resultado esta sendo ordenado, caso não queira, substitua o comando para [result = list(set(newfile) - set(oldfile))]
+cab == ""
 if cab.upper() == "S":
     result.insert(0, newfile[0])  # insere o cabeçalho na 1a linha
 
