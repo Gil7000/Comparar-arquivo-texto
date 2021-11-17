@@ -1,7 +1,8 @@
-# Ler e comparar dois arquivos TXT
-# Procura pelo arquivo newfile.txt e oldfile.txt no subdiretório Files
-# Cria um novo arquivo, resultfile.txt
-# from IPython.display import display
+""" Ler e comparar dois arquivos TXT
+    Procura pelo arquivo newfile.txt e oldfile.txt no subdiretório Files
+    Cria um novo arquivo, resultfile.txt
+    from IPython.display import display"""
+
 import os
 import time
 
@@ -61,4 +62,4 @@ for i in range(len(result)):
 
 resultFile.close()
 print('Termino: ' + time.strftime('%Y-%m-%d %H:%M:%S', time.localtime()))
-# GAS 14/11/2021
+# GAS 17/11/2021
