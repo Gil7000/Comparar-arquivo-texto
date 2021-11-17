@@ -21,7 +21,6 @@ Language: English
 
 
 
-GAS - essa linha existe em newfile e não existe em oldfile
 
 
 
@@ -30,13 +29,14 @@ GAS - essa linha existe em newfile e não existe em oldfile
 
 
 
-*Project Gutenberg is proud to cooperate with The World Library*
-in the presentation of The Complete Works of William Shakespeare
-for your reading for education and entertainment.  HOWEVER, THIS
-IS NEITHER SHAREWARE NOR PUBLIC DOMAIN. . .AND UNDER THE LIBRARY
-OF THE FUTURE CONDITIONS OF THIS PRESENTATION. . .NO CHARGES MAY
-BE MADE FOR *ANY* ACCESS TO THIS MATERIAL.  YOU ARE ENCOURAGED!!
-TO GIVE IT AWAY TO ANYONE YOU LIKE, BUT NO CHARGES ARE ALLOWED!!
+
+a*Project Gutenberg is proud to cooperate with The World Library*
+ain the presentation of The Complete Works of William Shakespeare
+afor your reading for education and entertainment.  HOWEVER, THIS
+aIS NEITHER SHAREWARE NOR PUBLIC DOMAIN. . .AND UNDER THE LIBRARY
+aOF THE FUTURE CONDITIONS OF THIS PRESENTATION. . .NO CHARGES MAY
+aBE MADE FOR *ANY* ACCESS TO THIS MATERIAL.  YOU ARE ENCOURAGED!!
+aTO GIVE IT AWAY TO ANYONE YOU LIKE, BUT NO CHARGES ARE ALLOWED!!
 
 
 
@@ -3337,7 +3337,6 @@ Enter Friar, [Laurence] and County Paris.
   Par. Do not deny to him that you love me.
 
   Jul. I will confess to you that I love him.
-  Jul. I will confess to you That I love him. 
 
   Par. So will ye, I am sure, that you love me.
 
